@@ -49,7 +49,7 @@ public class BuddyInfo {
 		AddressBook myBook = new AddressBook();
 		myBook.addBuddy(myBuddy);
 		//myBook.addBuddy(myBuddy);
-		myBook.removeBuddy(0);
+		//myBook.removeBuddy(0);
 		
 	}
 	
